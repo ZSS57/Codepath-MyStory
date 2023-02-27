@@ -24,10 +24,10 @@
                                 </constraints>
                             </imageView>
                             <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" alignment="center" spacing="15" translatesAutoresizingMaskIntoConstraints="NO" id="VXN-CU-gZl">
-                                <rect key="frame" x="30" y="298" width="354" height="534"/>
+                                <rect key="frame" x="30" y="298" width="354" height="116"/>
                                 <subviews>
                                     <label opaque="NO" contentMode="left" horizontalHuggingPriority="251" text="My name" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="p9v-5l-hTZ">
-                                        <rect key="frame" x="129.33333333333334" y="0.0" width="95.333333333333343" height="168"/>
+                                        <rect key="frame" x="129.33333333333334" y="0.0" width="95.333333333333343" height="28.666666666666668"/>
                                         <gestureRecognizers/>
                                         <fontDescription key="fontDescription" type="system" pointSize="24"/>
                                         <nil key="textColor"/>
@@ -37,7 +37,7 @@
                                         </connections>
                                     </label>
                                     <label opaque="NO" tag="1" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Am I married?" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Z1E-aM-cbP">
-                                        <rect key="frame" x="105.66666666666667" y="183" width="142.66666666666663" height="168"/>
+                                        <rect key="frame" x="105.66666666666667" y="43.666666666666686" width="142.66666666666663" height="28.666666666666671"/>
                                         <gestureRecognizers/>
                                         <fontDescription key="fontDescription" type="system" pointSize="24"/>
                                         <nil key="textColor"/>
@@ -47,7 +47,7 @@
                                         </connections>
                                     </label>
                                     <label opaque="NO" tag="2" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="My first word" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="MLN-WP-XKj">
-                                        <rect key="frame" x="110" y="366" width="134" height="168"/>
+                                        <rect key="frame" x="110" y="87.333333333333314" width="134" height="28.666666666666686"/>
                                         <gestureRecognizers/>
                                         <fontDescription key="fontDescription" type="system" pointSize="24"/>
                                         <nil key="textColor"/>
@@ -63,7 +63,7 @@
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
                             <constraint firstItem="VXN-CU-gZl" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="30" id="FE4-c1-6g8"/>
-                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="VXN-CU-gZl" secondAttribute="bottom" constant="30" id="Lnc-Zr-byk"/>
+                            <constraint firstItem="6Tk-OE-BBY" firstAttribute="bottom" secondItem="VXN-CU-gZl" secondAttribute="bottom" priority="250" constant="30" id="Lnc-Zr-byk"/>
                             <constraint firstItem="MvX-dp-JiV" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="30" id="dUg-S1-fK7"/>
                             <constraint firstItem="MvX-dp-JiV" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="m7I-qw-ghP"/>
                             <constraint firstItem="VXN-CU-gZl" firstAttribute="top" secondItem="MvX-dp-JiV" secondAttribute="bottom" constant="30" id="t63-og-OXs"/>
@@ -114,11 +114,14 @@
                                     <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="phg-kd-dKU">
                                         <rect key="frame" x="0.0" y="46" width="290" height="226"/>
                                         <constraints>
-                                            <constraint firstAttribute="height" constant="226" id="Tkx-5n-Plz"/>
+                                            <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="180" id="gHh-CC-fQK"/>
                                         </constraints>
                                     </imageView>
                                     <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="uU1-uE-ORD">
                                         <rect key="frame" x="0.0" y="295" width="290" height="385"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" secondItem="uU1-uE-ORD" secondAttribute="height" multiplier="58:77" id="IAL-Kj-2M7"/>
+                                        </constraints>
                                         <color key="textColor" systemColor="labelColor"/>
                                         <fontDescription key="fontDescription" type="system" pointSize="14"/>
                                         <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
@@ -126,7 +129,9 @@
                                 </subviews>
                                 <constraints>
                                     <constraint firstItem="phg-kd-dKU" firstAttribute="leading" secondItem="VHp-H8-zcK" secondAttribute="leadingMargin" id="fgf-JG-gMO"/>
+                                    <constraint firstItem="phg-kd-dKU" firstAttribute="top" secondItem="btm-3j-Twi" secondAttribute="bottom" constant="10" id="iu5-Rz-Ga5"/>
                                     <constraint firstItem="phg-kd-dKU" firstAttribute="leading" secondItem="uU1-uE-ORD" secondAttribute="leading" id="tAg-uA-5bg"/>
+                                    <constraint firstItem="btm-3j-Twi" firstAttribute="top" secondItem="VHp-H8-zcK" secondAttribute="top" constant="10" id="zE5-Ly-hRh"/>
                                 </constraints>
                             </stackView>
                         </subviews>
