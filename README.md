@@ -28,11 +28,12 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-Iphone:
+        Iphone:
 
 <img src='https://github.com/ZSS57/Codepath-MyStory/blob/main/MyStoryGIF-iphone-1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-Ipad:
+        Ipad:
+    
 <img src='https://github.com/ZSS57/Codepath-MyStory/blob/main/MyStoryGIF-ipad-1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <img src='https://github.com/ZSS57/Codepath-MyStory/blob/main/MyStoryGIF-ipad-2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
@@ -47,7 +48,7 @@ The challenges I encountered while building the app:
         1, The image became very large when I used stack view. 
         2, Auto layout did not work When I added some constrains on the label and images.
         3, The labels are not clickable. 
-        4, Learned swift and added some code to viewcontroller and detailviewcontroller. 
+        4, Learned swift and added some code to viewcontroller and detailviewcontroller to make the detail show correctly.
 
         I searched and watched some videos to solve these problems.
 
