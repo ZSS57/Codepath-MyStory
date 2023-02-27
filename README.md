@@ -25,13 +25,13 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-        Iphone:
+        Iphone 14:
 
-<img src='https://github.com/ZSS57/Codepath-MyStory/blob/main/MyStoryGIF-iphone.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/ZSS57/Codepath-MyStory/blob/main/MyStoryGIF-iphone14-2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-        Ipad:
+        Iphone SE:
     
-<img src='https://github.com/ZSS57/Codepath-MyStory/blob/main/MyStoryGIF-ipad-1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/ZSS57/Codepath-MyStory/blob/main/MyStoryGIF-iphoneSE-2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with LICEcap.
@@ -45,6 +45,7 @@ The challenges I encountered while building the app:
         2, Auto layout did not work When I added some constrains on the label and images.
         3, The labels are not clickable. 
         4, Learned swift and added some code to viewcontroller and detailviewcontroller to make the detail show correctly.
+        5, In the detailviewcontroller, the text did not show up when using app horizontally.
 
         I searched and watched some videos to solve these problems.
 
