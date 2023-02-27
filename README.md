@@ -33,9 +33,11 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/ZSS57/Codepath-MyStory/blob/main/MyStoryGIF-iphone-1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-        Ipad:
+        Ipad vertical:
     
 <img src='https://github.com/ZSS57/Codepath-MyStory/blob/main/MyStoryGIF-ipad-1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+        Ipad horizontal:
 
 <img src='https://github.com/ZSS57/Codepath-MyStory/blob/main/MyStoryGIF-ipad-2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
