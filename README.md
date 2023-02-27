@@ -4,7 +4,7 @@ Submitted by: Sha Zhao
 
 MyStory is an app that introduces Mickey Mouse.
 
-Time spent: 4 hours spent in total
+Time spent: 5 hours spent in total
 
 ## Required Features
 
