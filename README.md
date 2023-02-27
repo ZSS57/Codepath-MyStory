@@ -43,7 +43,7 @@ The challenges I encountered while building the app:
 
         1, The image became very large when I used stack view. 
         2, Auto layout did not work When I added some constrains on the label and images.
-        3, The labels are not clickable. 
+        3, The labels were not clickable. 
         4, Learned swift and added some code to viewcontroller and detailviewcontroller to make the detail show correctly.
         5, In the detailviewcontroller, the text did not show up when using app horizontally.
 
