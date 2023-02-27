@@ -21,10 +21,6 @@ The following **optional** features are implemented:
 - [ ] Improve and customize the user interface through styling and coloring
 - [ ] Allow users to scroll when context items are off-screen (table view implemention)
 
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
