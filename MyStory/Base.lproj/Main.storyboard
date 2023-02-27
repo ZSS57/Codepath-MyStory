@@ -8,7 +8,7 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <scenes>
-        <!--MyStory-->
+        <!--Mickey Mouse-->
         <scene sceneID="tne-QT-ifu">
             <objects>
                 <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="MyStory" customModuleProvider="target" sceneMemberID="viewController">
@@ -70,7 +70,7 @@
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="VXN-CU-gZl" secondAttribute="trailing" constant="30" id="u4X-80-Zul"/>
                         </constraints>
                     </view>
-                    <navigationItem key="navigationItem" title="MyStory" id="qPK-Z7-71Z" userLabel="MyStory"/>
+                    <navigationItem key="navigationItem" title="Mickey Mouse" id="qPK-Z7-71Z" userLabel="MyStory"/>
                     <connections>
                         <segue destination="NyZ-dm-tY7" kind="show" identifier="detailSegue" id="nsh-6U-fnV"/>
                     </connections>
