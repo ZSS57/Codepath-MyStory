@@ -28,6 +28,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+
         Iphone:
 
 <img src='https://github.com/ZSS57/Codepath-MyStory/blob/main/MyStoryGIF-iphone-1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
