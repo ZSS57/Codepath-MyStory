@@ -27,15 +27,12 @@ Here's a walkthrough of implemented user stories:
 
         Iphone:
 
-<img src='https://github.com/ZSS57/Codepath-MyStory/blob/main/MyStoryGIF-iphone-1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/ZSS57/Codepath-MyStory/blob/main/MyStoryGIF-iphone.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-        Ipad vertical:
+        Ipad:
     
 <img src='https://github.com/ZSS57/Codepath-MyStory/blob/main/MyStoryGIF-ipad-1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-        Ipad horizontal:
-
-<img src='https://github.com/ZSS57/Codepath-MyStory/blob/main/MyStoryGIF-ipad-2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with LICEcap.
 
