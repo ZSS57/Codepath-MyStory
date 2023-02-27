@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/ZSS57/Codepath-MyStory/blob/main/MyStoryGIF-iphone-1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with LICEcap.
 
@@ -38,12 +38,12 @@ GIF created with LICEcap.
 
 The challenges I encountered while building the app:
 
-1, The image became very large when I used stack view. 
-2, Auto layout did not work When I added some constrains on the label and images.
-3, The labels are not clickable. 
-4, Learned swift and added some code to viewcontroller and detailviewcontroller. 
+        1, The image became very large when I used stack view. 
+        2, Auto layout did not work When I added some constrains on the label and images.
+        3, The labels are not clickable. 
+        4, Learned swift and added some code to viewcontroller and detailviewcontroller. 
 
-I searched and watched some videos to solve these problems.
+        I searched and watched some videos to solve these problems.
 
 ## License
 
