@@ -4,7 +4,7 @@ Submitted by: Sha Zhao
 
 MyStory is an app that introduces Mickey Mouse.
 
-Time spent: 6 hours spent in total
+Time spent: 8 hours spent in total
 
 ## Required Features
 
@@ -18,7 +18,7 @@ The following **required** functionality is completed:
  
 The following **optional** features are implemented:
 
-- [ ] Improve and customize the user interface through styling and coloring
+- [x] Improve and customize the user interface through styling and coloring
 - [ ] Allow users to scroll when context items are off-screen (table view implemention)
 
 ## Video Walkthrough
@@ -31,7 +31,7 @@ Here's a walkthrough of implemented user stories:
 
         Iphone SE:
     
-<img src='https://github.com/ZSS57/Codepath-MyStory/blob/main/MyStoryGIF-iphoneSE-2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/ZSS57/Codepath-MyStory/blob/main/MyStoryGIF-iphoneSE-1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with LICEcap.
@@ -46,6 +46,7 @@ The challenges I encountered while building the app:
         3, The labels were not clickable. 
         4, Learned swift and added some code to viewcontroller and detailviewcontroller to make the detail show correctly.
         5, In the detailviewcontroller, the text did not show up when using app horizontally.
+        6, Added appicon and launch screen.
 
         I searched and watched some videos to solve these problems.
 
